@@ -1,0 +1,9 @@
+Package: com.example.helloline
+Name: HelloLine
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: First tweak — logs LINE view controllers
+Maintainer: taeho
+Author: taeho
+Section: Tweaks
+Depends: mobilesubstrate
