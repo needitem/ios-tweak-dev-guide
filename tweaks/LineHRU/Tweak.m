@@ -1,6 +1,6 @@
 // LineHRU — Hide Read + Block Unsend for LINE
-// References K2GE3Air's hookpoints: readUpToMessageID / lastReceivedMessageID /
-// setReadUpToMessageID: / alreadyInserted / setAlreadyInserted:
+// Hooks: readUpToMessageID / lastReceivedMessageID / setReadUpToMessageID:
+//        / alreadyInserted / setAlreadyInserted:
 
 #import <Foundation/Foundation.h>
 #import <objc/runtime.h>

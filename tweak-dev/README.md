@@ -74,7 +74,7 @@ sudo uiopen --bundleid <bid>  # 잠금 풀려있어야 함
 3. **필터 plist**: binary plist 형식 권장. XML도 받긴 함.
 4. **잠금**: uiopen은 잠금 풀려있어야 동작.
 
-## LINE 후킹용 selector 참조 (K2GE3Air 분석에서 확보)
+## LINE 후킹용 selector 참조
 - 읽음:    `readUpToMessageID`, `lastReceivedMessageID`, `setReadUpToMessageID:`
 - 송신취소: `alreadyInserted`, `setAlreadyInserted:`
 - 채팅 ID:  `chatMID`, `setChatMID:`
